@@ -1,0 +1,4 @@
+include ':myapplication'
+include ':yingyong1'
+include ':app'
+rootProject.name = "fuxi"
